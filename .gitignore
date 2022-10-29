@@ -1,10 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
 
-# Ignore source data file because it's too large
-202209-citibike-tripdata.csv
-202208-citibike-tripdata.csv
-202207-citibike-tripdata.csv
+# Ignore source data files because they're too large
+*-citibike-tripdata.csv
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
