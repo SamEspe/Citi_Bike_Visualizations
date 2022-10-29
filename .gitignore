@@ -3,6 +3,8 @@
 
 # Ignore source data file because it's too large
 202209-citibike-tripdata.csv
+202208-citibike-tripdata.csv
+202207-citibike-tripdata.csv
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
