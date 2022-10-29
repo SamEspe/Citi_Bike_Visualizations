@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
 
 # Ignore source data files because they're too large
-*-citibike-tripdata.csv
+raw_data/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
